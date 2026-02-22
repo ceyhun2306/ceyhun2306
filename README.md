@@ -1,6 +1,6 @@
-## 💫 About Me
+# 💫 About Me
 
-<h3>Process Automation Engineering Student | Data Analytics Enthusiast</h3>
+##Process Automation Engineering Student | Data Analytics Enthusiast##
 
 <p>
 I am a Process Automation Engineering student with a strong focus on Data Analytics and data-driven decision-making. My engineering background strengthens my analytical thinking and structured problem-solving approach, which I apply in real-world data projects.
@@ -14,7 +14,7 @@ I work with Python, SQL, Excel, and Power BI to collect, clean, analyze, and vis
 Through continuous learning and hands-on project development, I aim to grow into a well-rounded data professional capable of contributing to engineering, industrial, and business environments.
 </p>
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/jeyhun-hamidov-0259183a0">
@@ -28,7 +28,7 @@ Through continuous learning and hands-on project development, I aim to grow into
   </a>
 </p>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,postgres,mysql,github" />
@@ -42,12 +42,9 @@ Through continuous learning and hands-on project development, I aim to grow into
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceyhun2306&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhun2306&layout=compact&theme=tokyonight" height="150"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ceyhun2306&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=ceyhun2306&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhun2306&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ceyhun2306&icon=0&color=0)](https://visitcount.itsvg.in)
