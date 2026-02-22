@@ -1,6 +1,6 @@
 # 💫 About Me
 
-##Process Automation Engineering Student | Data Analytics Enthusiast
+<h2>Process Automation Engineering Student | Data Analytics Enthusiast</h2>
 
 <p>
 I am a Process Automation Engineering student with a strong focus on Data Analytics and data-driven decision-making. My engineering background strengthens my analytical thinking and structured problem-solving approach, which I apply in real-world data projects.
