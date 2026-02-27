@@ -42,10 +42,6 @@ Through continuous learning and hands-on project development, I aim to grow into
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=ceyhun2306&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=ceyhun2306&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhun2306&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ceyhun2306&icon=0&color=0)](https://visitcount.itsvg.in)
 
